@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 Oh Seunggi(iOS Developer)
---- 
-I'm an iOS developer interested in Clean Code, SwifUI, Combine. I aspire to make an impact on the world through my code.
 
 ## Experiences
 - Bachelor Degree of Computer Science, Transportation and Logistics Engineering, in Hanyang University(Erica) (2023.02)
@@ -24,5 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohsg0226)](https://solved.ac/ohsg0226/)
